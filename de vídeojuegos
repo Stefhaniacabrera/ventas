@@ -1,0 +1,505 @@
+!Doctype html>
+<Html>
+<head>
+				<title>vídeojuegos</title>
+<meta charset="utf-8">
+<link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+        
+<style>
+body {
+background-color:#990000; }
+                
+
+#cabecera1 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#eaeaff;
+background-color:#000000;
+
+}
+
+#cabecera2 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#eaeaff;
+background-color:#000000;
+}
+
+#cabecera3 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#eaeaff;
+background-color:#000000;
+}
+
+#cabecera4 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align: center;
+color:#eaeaff;
+background-color:#000000;
+}
+
+#cabecera5 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#eaeaff;
+background-color:#000000;
+}
+
+#cabecera6 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#eaeaff;
+background-color:#000000;
+}
+
+
+border-top-width:2px;
+border-right-width:2px;
+border-bottom-width:2px;
+border-left-width:2px;
+
+border-top-style:solid;
+border-right-style:dotted;
+border-bottom-style:solid;
+border-left-style:dotted;
+
+border-top-color:#000000;
+border-right-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#CC0000;
+}
+
+h1{
+border-width:2px;
+border-color:#00FF00;
+border-style:inset;
+}
+
+h2{
+border-width:4px;
+border-style:groveer;
+border-color:#CC0000;
+}
+
+h3{
+border-width:2px;
+border-style:groveer;
+border-color:#CC0000;
+}
+h4{
+border-width:70px;
+border-style:groveer;
+border-color:#CC0000;
+}
+
+h5{
+border-width:2px;
+border-style:groveer;
+border-color:#CC0000;
+}
+
+h6{
+border-width:2px;
+border-style:grover;
+border-color:#CC0000;
+}
+
+table{
+
+border-width:10px;
+				border-color:#FFFF66;
+				
+}
+
+
+ol{
+font-family:"Times New Roman";
+color:#FFCC00;
+}
+
+
+p{
+font-family:"Times New Roman";
+color:#FFFFFF;
+
+}
+
+td{
+font-family:"Times New Roman";
+color:#ffffff;
+
+
+}
+
+ul{
+font-family:"Times New Roman";
+color:#FFCC00;
+}
+</style>
+
+<body>
+		<div id="cabecera1">
+<h1>VENTA DE VIDEOJUEGOS</h1>
+</div>
+<p>Un videojuego es un juego electrónico en el que una o más personas interactúan por medio de un controlador, con un dispositivo que muestra imágenes de vídeo. Este dispositivo electrónico, conocido genéricamente como «plataforma», puede ser una computadora, una máquina de arcade, una videoconsola o un dispositivo portátil, como por ejemplo un teléfono móvil, teléfono inteligente o tableta. La industria de los videojuegos es una de las principales en el mundo del arte y del entretenimiento.</p>
+	
+
+
+	<a href="#Videojuego_de_acci">videojuegos_ de_ acción</a><br>
+								<a href="#Juego_de_estrategia">juegos_ de_ estrategia</a><br>
+									<a href="#Juego_de_mesa">juegos_de_mesa</a><br>
+								<a href="#simulaciones">juegos de simulación</a><br>
+								<a href="#juegos-musicales">juegos-musicales</a><br>
+
+<p><b>Clasificación de vídeojuegos</b></p>
+
+								
+
+<a name="juegos_ de_ acción"></a>
+		<div id="cabecera2">
+<h2>JUEGOS DE ACCIÓN</h2></div>
+	<ol>
+												<li>FAR CRY 6:</li>
+												<p>Far Cry 6 es un nuevo videojuego de la saga de acción en primera persona de Ubisoft. En el título viajaremos a Yara, un paraíso tropical ficticio gobernado por un tirano: Anton Castillo, a quien pone cara y voz Giancarlo Esposito. A los mandos controlaremos a Dani Rojas, un ciudadano de esta país que se une a una guerrilla que intenta liberar la nación de la tiranía de Castillo. En Far Cry 6 los jugadores volverán a explorar un exuberante mundo abierto, repleto de vegetación, ciudades, playas, selvas y muchos más lugares que explorar más allá de Esperanza, la enorme capital de Yara.</p>
+											  				    <li>GRAND THEFH AUTO V:</li>
+											  			<p> Grand Theft Auto V para PS4 es una versión mejorada y ampliada del GTA V original aparecido en PS3 en 2013. Contará con nuevos gráficos y nuevo contenido como armas, vehículos o misiones, además de una banda sonora ampliada y más jugadores en el modo online. Nos cuenta la épica historia de Michael, Franklin y Trevor en la ciudad de Los Santos y sus alrededores.</p>
+																<li>METROID DREAD:</li>
+																<p>Metroid Dread es la nueva entrega de la saga de acción, plataformas y aventuras Metroid en clave de dos dimensiones. Diseñado para Nintendo Switch, el videojuego sirve como secuela de Metroid Fusion y está desarrollado por MercurySteam, el estudio español que ya trabajó en Samus Returns.
+
+Género: Aventura de acción / Metroidvania
+
+</p>
+																<li>DIABLO 2:RESURRECTERD:</li>
+																<p>Diablo 2: Resurrected es una remasterización del clásico de rol y aventuras de Blizzard para PC, PS4, PS5, Xbox One, Xbox Series X/S y Nintendo Switch. Se trata de una puesta al día del videojuego con gráficos mejorados, cambios en los modelados y efectos pero con una fiel representación del título que marcó a una generación.
+
+Género: Action-RPG / Roguelike </p>
+																<li>KENA:BRIDGE OF SPIRITS:</li>
+				                              <p>Kena: Bridge of the Spirits es un videojuego de aventura y acción para PlayStation 5 y PC que nos ofrece, además de una enternecedora y épica historia, un apartado visual muy inspirado en la animación en 3D. El título, obra de Ember Lab, se ha desarrollado en colaboración con Sony para poder ofrecer una experiencia más enriquecedora, inmersiva y completa en términos de mecánicas.
+
+Género: Aventura de acción </p>
+												      <li>GOD OF WAR:</li>
+																<p>God of War es la vuelta de Kratos a los videojuegos tras la trilogía original. Esta nueva entrega para PlayStation 4, si bien mantendrá varios de los ingredientes indivisibles de su jugabilidad, apostará por un nuevo comienzo para el personaje y una ambientación nórdica, ofreciéndonos una perspectiva más madura y realista de la mitología de dioses y monstruos milenarios habitual en la serie de títulos. En God of War, Kratos será un guerrero más curtido y pasivo, pues tendrá que desempeñar el rol de padre en un frío y hostil escenario, al que parece haberse retirado para olvidar su pasado.
+
+Género: Aventura de acción / Hack and Slash.</p>
+																<li>SCARLET NEXUS:</li>
+																<p> Scarlet Nexus es un juego de rol y acción diseñado por Bandai Namco enmarcado en el género del hack and slash en el que tomaremos el control de Yuito Sumeragi, un guerrero implacable habitante de un futuro distópico en el que la humanidad ha sucumbido a la invasión de unas criatura llamadas ‘Alter’; estos seres abstractos parecen prácticamente invulnerables, pero el protagonista podrá enfrentarse a ello gracias a su psicoquinesis, una poderosa habilidad mental con la que puede mover objetos, armas e incluso enemigos.
+
+Género: Aventura de acción / Hack and Slash</p>
+														
+ <li>DRAGON BALL Z:KAKAROT:</li>
+														            <p>  Dragon Ball Game Project Z: Action RPG, el nuevo juego de rol de Bola de Dragón, nos narrará las aventuras de Goku durante Dragon Ball Z de una forma inédita hasta la fecha. El videojuego comenzará en una de las etapas doradas del manga y el anime, y nos llevará hasta el final de la saga de Namek, momento en el que Goku se transforma en Super Guerrero. Por tanto, podemos asumir que empezará con la llegada del hermano de Goku a la Tierra, hecho que daba inicio a Dragon Ball Z, y nos falta por saber si narrará las sagas posteriores a la derrota de Freezer. Está siendo desarrollado por CyberConnect2.
+
+Género: Action-RPG / Mundo abierto</p>
+
+												  <li>MARVEL'S AVENGERS:</li>
+														  <p> Marvel's Avengers es un videojuego de acción y aventura para un jugador con opciones de cooperativo online que nos invitará a encarnar a los héroes más poderosos de la Tierra. Desarrollado por Square Enix, Crystal Dynamics y Eidos Montreal, el título nos llevará a encarnar a los célebres personajes de Marvel como Thor, Capitán América, Hulk, Iron Man o la Viuda Negra a lo largo y ancho de un mundo en continua expansión.
+
+Género: Aventura de acción </p>
+														   <li>TALES OF ARISE:</li>
+														  <p> Tales of Arise es el nuevo videojuego de la saga Tales of de Bandai Namco. Se trata de una secuela muy ambiciosa, que pretende marcar un antes y un después dentro de la serie de títulos de rol. Estrena sistema de combate dinámico, mantiene las señas de identidad de otros juegos anteriores y da un salto técnico enorme al usar una nueva dirección artística y el motor gráfico Unreal Engine 4. Está producido por Yuusuke Tomizaka y cuenta con un equipo de veteranos en Tales of.
+
+Género: Action-RPG / JRPG </p>
+														   <li>THE LAST OF US PARTE II:</li>
+														 <p> The Last of Us 2 es la secuela de The Last of Us, uno de los juegos más aclamados de la consola PS3, que apareció en 2015 en PS4 en versión remasterizada. Esta continuación ha sido anunciada en el evento PlayStation Experience de diciembre de 2016, generando grandísimas expectativas entre los jugadores.
+
+Género: Aventura de acción / Survival Horror</p>
+														 
+<li>RECIDENT EVIL 8:VILLAGE:</li>
+														  <p> Resident Evil 8: Village es la octava entrega de Resident Evil, la saga de survival horror de Capcom que a lo largo de los años nos ha llevado a luchar contra zombis, mutantes y otros seres sobrenaturales. Resident Evil 8: Village, que llegará a PlayStation 5, Xbox Series X y PC nos devuelve a la primera persona como ya sucedió en la séptima parte de la serie y nos llevará a una aldea maldita aislada en un clima hostil y frío, así como asediada por extrañas criaturas que hace la vida imposible a los habitantes.
+
+Género: Aventura de acción / Survival Horror</p>
+														 
+<li>SPIDER-MAN:</li>
+		                                <p>Spider-Man para PS4 es un videojuego de acción y aventuras con un estilo jugable de mundo abierto, que permite al jugador desplazarse de un lugar a otro con total libertad de movimientos y que tiene por escenario donde de desarrolla la historia, la ciudad de Nueva York. El juego está desarrollado por Imsomniac Games, creadores de juegos como Spyro, Ratchet & Clank o Sunset Overdrive, entre otros y además está producido por Sony como videojuego exclusivo de PlayStation 4.
+
+Género: Aventura de acción / Beat'em up / Mundo abierto </p>
+														  
+												</ol>
+<table border="2">
+		<tr>
+		<td>VÍDEOJUEGOS</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>far cry 6</td><td>250 lps</td>
+		</tr>
+		<tr>
+		<td>grand thefh auto V</td><td>450 lps</td>
+		</tr>
+		<tr>
+		<td>Metroid dread</td><td>270 lps</td>			
+		</tr>
+		<tr>
+		<td>kena:bridge of spirits</td><td>350 lps</td>			
+		</tr>
+		<tr>
+		<td>god of war</td><td>350 lps</td>		
+		</tr>
+		<tr>
+		<td>Scarlet nexus</td><td>450 lps</td>
+		</tr>
+		<tr>
+		<td>dragon ball z: Kakarot</td><td>330 lps</td>			
+		</tr>
+		<tr>
+		<td>Marvel's anvengers</td><td>300 lps</td>		
+		</tr>
+		<tr>
+		<td>tales of arise</td><td>200 lps</td>
+		</tr>
+		<tr>
+		<td>the last of us parte II</td><td>270 lps</td>
+		</tr>
+		<tr>
+		<td>Resident evil8 8:villsge</td><td>330 lps</td>
+		</tr>
+		<tr>
+		<td>Spiderman-man</td><td>240 lps</td>
+		</tr>
+		
+	
+	
+		<table border="2">
+		<tr>
+		<td>VIDEOJUEGOS</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>Age of empires II:the age of kings</td><td>230 lps</td>
+		</tr>
+		<tr>
+		<td>Atom zombie smasher</td><td>250 lps</td>
+		</tr>
+		<tr>
+		<td>Black y white</td><td>160 lps</td>			
+		</tr>
+		<tr>
+		<td>Caesar III</td><td>230 lps</td>			
+		</tr>
+		<tr>
+		<td>Civilization II</td><td>210 lps</td>		
+		</tr>
+		<tr>
+		<td>Command y conquer</td><td>120 lps</td>
+		</tr>
+		<tr>
+		<td>Commandos 2</td><td>250 lps</td>			
+		</tr>
+		<tr>
+		<td>Company of heroes</td><td>200 lps</td>		
+		</tr>
+		<tr>
+		<td>Crusader king II</td><td>150 lps</td>
+		</tr>
+		<tr>
+		<td>Dune</td><td>100 lps</td>
+		</tr>
+		<tr>
+		<td>Europa universalis IV</td><td>300 lps</td>
+		</tr>
+		<tr>
+		<td>Prison architect</td><td>100 lps</td>
+		</tr>
+					<li> videojuegos de acción</li>
+				<a href=""><img src="juegodeaccion.jpg" alt="videojuegos de acción"></a>
+
+			
+		<a name="videojuegos de estrategia"></a>
+				<div id="cabecera3">
+<h3>JUEGOS DE ESTRATEGIA</h3></div>
+	</script>
+															<li>AGE OF EMPIRES II:THE AGE OF KINGS:</li>
+															<p>'Age of Empires II' es un señor juegazo donde los haya, claro. Además de contar con campañas dedicadas a personajes históricos como William Wallace, Juana de Arco o Gengis Khan, el título ofrece 13 civilizaciones distintas con sus propias unidades, especialidades y bonificaciones. Un pozo de horas ideal para los fans de la Edad Media. Y para el resto también.</p>
+														     	<li>ATOM ZOMBIE SMASHER:</li>
+																<p> Ni en los juegos de estrategia podemos deshacernos de los zombis, oiga. Pero es que 'Atom Zombie Smasher' merece estar en esta lista pese a ser un título más bien pequeñito, sobre todo si lo comparamos con los pesos pesados que forman esta lista. Tu meta aquí será salvar civiles de las distintas zonas de Nuevos Aires, una ciudad ficticia infectada de zombis hasta arriba.</p>
+																  <li>BLACK Y WHITE:</li>
+																<p>Seguramente muchos recordaréis a Peter Molyneux por sus excentricidades durante los últimos años, pero eh, este señor ha diseñado juegos como el mismísimo 'Black & White'. Un título donde, básicamente, el jugador es un dios encargado de que todo funcione correctamente en una isla poblada por diversas tribus. Y sí, eso incluye obrar milagros.</p>
+																 <li>CAESAR III:</li>
+																<p>Si alguna vez has fantaseado con convertirte en un gobernador durante la época del imperio romano, Caesar III es probablemente lo que estás buscando. Te va a tocar construir ciudades y hacer que sus ciudadanos estén contentos con todo lo que eso conlleva. ¿Pozo de horas? Pues claro</p>
+																<li>CIVILIZATION II:</li>
+																<p>Casi cinco años pasaron entre el lanzamiento del primer 'Civilization' de Sid Meier hasta la llegada de 'Civilization II', pero viendo el resultado podemos decir tranquilamente que la espera valió la pena. Estamos hablando de mediados de los 90 y de una saga que sigue viva en la actualidad, casi 30 años después, pero nos quedamos con esta segunda entrega. El mayor cambio fue a nivel visual, adoptando aquí una perspectiva isométrica en lugar de la cenital del original, pero también se introdujeron novedades en las unidades, en la IA y mucho más. Una joya.</p>
+																<li>COMMAND Y CONQUER:</li>
+																<p>'Command & Conquer' es uno de esos juegos que nunca pueden faltar en una lista de este tipo dedicada a la estrategia. El trabajo de Westwood Studios nos trasladaba a una línea temporal alternativa donde un meteorito se estrellaba en Italia a mediados de los 90, dejando escapar una sustancia tóxica llamada Tiberium. A partir de ahí tenemos dos facciones enfrentadas por el interés en el Tiberium, lo cual da lugar a las dos campañas jugables. Y venga, a gestionar recursos y cargarse la base enemigo se ha dicho.</p>
+																<li>COMMANDOS 2:</li>
+																<p>Probablemente este Commandos 2, junto a la primera entrega de la saga, fue uno de los pocos títulos que he jugado en PC a lo largo de mi vida. Y le eché sus buenas horas. Si buscas estrategia táctica en tiempo real con una ambientación basada en la Segunda Guerra Mundial y con un escuadrón de comandos a tus órdenes con los que deberás infiltrarte en las líneas enemigas, dale una oportunidad.</p>
+														     <li>COMPANY  O  HÉROES:</li>
+														  <p>Otro que sin duda es uno de los mejores videojuegos de estrategia en tiempo real es 'Company of Heroes'. Está ambientado durante la Segunda Guerra Mundial, ofrece dos facciones jugables y sí, nos mete de lleno en la Batalla de Normandía.</p>
+
+														    <li>CRUSADER KING II:</li>
+														  <p>
+
+'Crusader Kings II' es otro de esos juegos pensados para los que gusten de historias ambientadas en el Medievo. En este caso el jugador va a tener la oportunidad de controlar a una dinastía a lo largo de cerca de 400 años, concretamente del año 1066 al 1453, e incluso de ir más hacia atrás todavía en el tiempo a través de algunos de sus DLC. Gran Estrategia de altos vuelos.</p>
+														        <li>DUNE II:</li>
+														  <p>En 1992, tres años antes de que 'Command & Conquer' viera la luz, Virgin Games lanzaba al mercado 'Dune II', otro de los muchísimos títulos que forman parte del catálogo de Westwood Studios. En este caso se trataba de un juego de estrategia real basado en la película de David Lynch, la cual a su vez era una adaptación de la novela escrita por Frank Herbert. Y aunque no se trata del primer juego de estrategia en tiempo real de la historia, sí acabó sentando las bases del género. Poca broma.</p>
+														      <li>EUROPA UNIVERSALIS IV:</li>
+														  <p>Otra saga que lleva años dando guerra en el terreno de la Gran Estrategia es 'Europa Universalis' de Paradox, sin duda. En este caso nos quedamos con 'Europa Universalis IV' porque creemos que es el más completo, un juego donde vais a poder controlar a una nación a lo largo de cientos de años (de mediados del siglo XV hasta principios del XIX). Comercio, gestión de recursos, diplomacia, colonización y guerras. Que no falte de nada.</p>
+														      <li>PRISON ARCHITECT:</li>
+														  <p>'Prison Architect' es uno de los títulos más recientes de los que aparecen en esta lista. También es el que toca el género de la estrategia de una forma algo distinta al resto, con un enfoque más hacia el simulador de construcción y gestión de recursos (en este caso de un recinto penitenciario), pero lo quiera o no sigue siendo un buen candidato para estar aquí.</p>
+														 
+												</ol>
+
+		<table border="2">
+	  <tr>
+		<td>VIDEOJUEGOS</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>La Escoba</td><td>200 lps</td>
+		</tr>
+		<tr>
+		<td> El Domino</td><td>120 lps</td>
+		</tr>
+		<tr>
+		<td> El Parchís</td><td>150 lps</td>			
+		</tr>
+		<tr>
+		<td>El Monopoli</td><td>150 lps</td>			
+		</tr>
+		<tr>
+		<td>El Trivil</td><td>200 lps</td>		
+		</tr>
+		<tr>
+		<td>El Uno </td><td>200 lps</td>
+		</tr>
+		<tr>
+		<td>Piratas</td><td>100 lps</td>			
+		</tr>
+		<tr>
+		<td>10 Cerditos</td><td>150 lps</td>			
+		</tr>
+		<tr>
+	  <td>Boom Boom Balloon</td><td>200 lps</td>
+	  </tr>
+	  <tr>
+	  				
+		<li>videojuegos de estrategia</li>
+			<a href=""><img src="juegodeestrategia.jpg" alt="videojuegos de estrategia"></a>
+		<a name="juegos de mesa"></a>
+				<div id="cabecera4">
+<h4>JUEGOS DE MESA </h4>		</div>
+	<ol>
+													<li> LA ESCOBA:</li>
+													<p>Con cartas, un clásico. Además es perfecto para los aquellos que ya andan con las sumas y el cálculo mental. Seguro que habéis jugado mil veces cuando eráis niños ¿no? Dudo que no tengáis por casa una baraja de cartas pero por si acaso ya sabéis que en Amazon os la llevan a casa.</p>
+																     <li>El DOMINO:</li>
+																<p>Las famosas y sonoras fichas cargadas de puntos que hay que saber mover por la mesa para ganar la partida, aquí los más mayores de la familia puede que tengan algo de ventaja aunque los más pequeños seguro que aprenden rápido. Tenéis este juego de dominó en caja de madera en Amazon. </p>
+																     <li>EL PARCHIS:</li>
+																<p>Un clásico entre los clásicos. Para dos, tres cuatro… para niños contra adultos, para equipos, para parejas. Siempre es práctico tener a mano un tablero para echar un parchís y si no lo tenéis a mano.</p>
+															      	<li>EL MONOPOLI:</li>
+																<p>Lo único indispensable es el tiempo, vamos que con una partida de monopoly se nos puede ir la tarde entera y las primeras horas de la noche. Preparemos una merienda sencilla de picoteo porque al monopoly se sabe cuándo se empieza a jugar pero no cuando se acaba. Versiones de este juego cada día hay más.</p>
+																     <li>EL TRIVIAL:</li>
+																<p>En sus diferentes opciones (genius, normal, de los 80’, para cinéfilos,para amantes de "Juego de Tronos", de "Walking Dead", de "Big Band Theory",...) es innegable que es muy entretenido y que puede ser muy divertido cuando se juega por equipos y más en familia.</p>
+																       <li> EL UNO:</li>
+																<p>Sin duda, no es un clásico por cuestión de edad pero sí que es cierto que se ha convertido en un recurrente para echar unas risas jugando en familia. Mucho cuidado con los más pequeños que cuando te quieres dar cuenta te ganan por la mano y sí, claro que hablo por experiencia. Por si no tenéis una baraja de Uno a mano.</p>
+																<li>PIRATAS:</li>
+																<p>Fácil de llevar a cualquier sitio y perfecto para que cuatro personas pasen un rato de lo más entretenido, lo hemos descubierto hace relativamente poco pero es de los que se quedarán en casa mucho, mucho tiempo.</p>
+														           <li>10 CERDITOS:</li>
+														  <p>Aprovechemos para contar y sumar al menos hasta diez y todo ello mientras jugamos juntos. El plan es perfecto para pasar una gran terde en familia. </p>
+													         	<li>BOOM BOOM BALLOON:</li>
+														<p>Este sí que es para todas las edades, jugar con los abuelos a ver quien consigue que no se le explote el globo viene acompañado de risas para todos, eso seguro. </p>
+														
+												</ol>
+
+												</div>
+
+<table border="2">
+<tr>
+		<td>VIDEOJUEGOS</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>Stardew valley</td><td>200 lps</td>
+		</tr>
+		<tr>
+		<td>Kitty Powers'Matchmaker</td><td>100 lps</td>
+		</tr>
+		<tr>
+		<td>Mr.president!</td><td>200 lps</td>			
+		</tr>
+		<tr>
+		<td>Cities:skylines</td><td>300 lps</td>			
+		</tr>
+		<tr>
+		<td>American truck simulator</td><td>220 lps</td>		
+		</tr>
+		<tr>
+		<td>Euro truck simulator 2</td><td>250 lps</td>	
+		</tr>
+		<tr>
+		<td>Los sims 4</td><td>100 lps</td>			
+		</tr>
+		<tr>
+		<td>Papers,please</td><td>200 lps</td>	
+		</tr>
+				<li>juegos de mesa</li>
+			<a href=""><img src="juegodemesa.jpg"> alt="juegos de estrategia"></a>
+		<a name="Juegos de simulación"></a>
+				<div id="cabecera5">
+<h5>JUEGOS DE SIMULACIÓN</h5></div>
+	<ol>
+													         <li>STARDEW VALLEY:</li>
+													<p>Stardew Valley, programado por ConcernedApe y editado por Chucklefish es un juego en el que tendremos que gestionar una granja, herencia de nuestro abuelo, encargándonos de vigilar cosechas, cultivos e instalaciones, y que supone una especie de mezcla entre Harvest Moon y Animal Crossing, aunque con un estilo visual en dos dimensiones más cercanos a los gustos occidentales.</p>
+																   <li>KITTY POWERS'MATCHMAKER:</li>
+																<p>Kitty Powers' Matchmaker es un simulador de citas que apuesta por el humor, pero que además se distingue de otros con una diferencia: En él manejamos nuestra propia agencia matrimonial con la guía de su fabulosa jefa, Kitty Powers. Clientes generados aleatoriamente y multitud de posibilidades cierran este particular simulador.</p>
+																<li>MR.PRESIDENT!:</li>
+																<p>En Mr.President! encarnaremos a un guardaespaldas, Dick "Rock-Hard" Johnson, que tendrá que evitar que el candidato a la presidencia perezca en los múltiples eventos a los que asistirá. Inteligentemente, el juego evita citar a Donal Trump -Ronald Rump es el nombre del personaje-, pero tanto por su aspecto como por sus actos, no podemos negar la más que evidente parodia</p>
+																        <li> CITIES:SKYLINES:</li>
+																<p>De los creadores de Cities in Motion, Cities: Skylines es un simulador de ciudad que intenta llevar a un paso más las dinámicas de gestión vistas en títulos como SimCity. Nos permite crear nuestra ciudad y gestionarla al máximo, comenzando con un pequeño pueblo hasta convertirla en una metrópolis </p>
+																<li>AMERICAN TRUCK SIMULATOR:</li>
+																<p>American Truck Simulator en un simulador de conducción de camiones que nos llevará por algunas de las rutas y carreteras más icónicas de los Estados Unidos, desde San Francisco a Las Vegas, invitándonos a transportar diferentes tipos de cargas y materiales a su destino. El título ofrece dos estados -California y Nevada- y dos camiones -plenamente configurables y personalizables-, más un tercer vehículo que llegará pronto.</p>
+																    <li>EURO TRUCK SIMULATOR 2:</li>
+																<p>Se trata de un título que nos permite ponernos en la piel de un conductor de camiones con el recorremos las calles de multitudes países de europa –Reino Unido, Bélgica, Alemania, Italia, Holanda, Polonia...–, con un total de 60 ciudades. Monta tu propia flota de camiones, compra garajes, contrata a conductores y consigue los máximos beneficios.</p>
+																     <li>LOS SIMS 4:</li>
+																<p>Los Sims 4 es la nueva entrega de la serie de simulación social de Maxis que nos propone controlar a estos seres virtuales y hacer que evolucionen en sus vidas. Esta cuarta entrega incluye mayor libertad que nunca para construir la vivienda de nuestros Sims, con más opciones de diseño, y un sistema de elecciones que hará que las decisiones que tomen nuestros seres virtuales afecten a su vida.</p>
+														    <li>PAPERS,PLEASE:</li>
+												  <p>Papers, Please para PC es un juego distópico que nos sitúa en el estado comunista de Arstotzka como guardia de sus fronteras. Tras una guerra de seis años contra sus vecinos de Kolechia, han conquistado la mitad de Grestin, la ciudad fronteriza. Nosotros somos un inspector de inmigración que tendrá que controlar a los que entren desde el lado de Grestin, pero entre ellos hay contrabandistas, espías y terroristas. Tendremos que inspeccionar a la gente para decidir quién entra y quién es arrestado.</p>
+														
+												</ol>
+												<table border="2">
+<tr>
+		<td>VIDEOJUEGO</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>Beat saber</td><td>180 lps</td>
+		</tr>
+		<tr>
+		<td>Tetris effect</td><td>200 lps</td>
+		</tr>
+		<tr>
+		<td>Rez infinite</td><td>150 lps</td>			
+		</tr>
+		<tr>
+		<td> pistol whip</td><td>130 lps</td>
+		</tr>
+		
+												
+	<li>juegos de simulación</li>
+			<a href=""><img src="juegodesimulacion.jpg" alt="juegos de simulación" </a>
+			<a name="juegos musicales"></a>
+					<div id="cabecera6">
+<h6>JUEGOS MUSICALES</h6></div>
+	<ol>
+																
+<li>BEAT SABER:</li>	                        
+
+                                   <p>Desarrollado por Beat Games, Beat Saber es un juego para visores de realidad virtual que ofrece una experiencia rítmica inmersiva. Al ritmo de la música tenemos que ir golpeando con nuestros sables unos cubos que aparecen en pantalla.</p>
+
+
+<li>TETRIS EFFECT:</li>
+
+                                 <p>Tetris Effect es un videojuego arcade y puzles basado en el clásico juego, pero desarrollado como una experiencia de realidad virtual. Con más de 30 niveles, este Tetris presenta una estética tridimensional acorde con la tecnología, conservando las mecánicas básicas del juego y las piezas más emblemáticas para eliminar líneas</p>
+															     	<li>REZ INFINITAMENTE:</li>
+																<p>Rez Infinite es un videojuego musical de disparos sobre raíles desarrollado por Q Entertainment totalmente remasterizado para la realidad virtual. El jugador acompaña a un avatar a través de una red cibernética donde tienen piratear el sistema, alterar el output visual y hacerse con la música, creando ritmos únicos que acompañan a las animaciones psicodélicas.</p>
+															   	<li>PISTOL WHIP:</li>
+																<p>Es un videojuego de acción desarrollado y distribuido por Cloudhead Games ltd. Consiste en involucrarse en un mundo basado en música en una sinfonía cinematográfica de violencia donde el jugador se convierte en un profesional en manejo de armas de fuego donde tiene que pasar por distintos escenarios eliminando enemigos en una perspectiva de primera persona.</p>                                  </ol> 
+      	<table ="2">
+
+		<li>juegos musicales</li>
+		<a href=""><img src="juegosmusicales.jpg">< alt="juegos musicales"></a>
+									
+</body>
+</head>
+</html
